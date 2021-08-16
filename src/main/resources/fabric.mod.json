@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "weapons",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Weapons Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Me!"
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.dsfhdshdjtsb.weapons.WeaponsMod"
     ]
   },
   "mixins": [
